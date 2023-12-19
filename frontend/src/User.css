@@ -1,0 +1,27 @@
+.container{
+    background-color: black;
+    color:white;
+    width: 50%;
+    margin:auto;
+}
+.delete{
+    background-color: red;
+    color: white;
+}
+.edit{
+    background-color: green;
+    color:white;
+    padding: 10px 25px;
+    border-radius: 12%;
+    text-decoration: none;
+    margin: 5px;
+}
+.name{
+    gap: 10px;
+}
+.email{
+    gap: 10px;
+}
+.age{
+    gap:10px
+}
