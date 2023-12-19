@@ -52,7 +52,7 @@ In a separate terminal, start the frontend development server:
 bash
 Copy code
 cd client && npm start
-Open your browser and visit http://localhost:3000 to interact with the CRUD app.
+Open your browser and visit http://localhost:3001 to interact with the CRUD app.
 
 ## Contributing
 Feel free to contribute by opening issues or creating pull requests.
